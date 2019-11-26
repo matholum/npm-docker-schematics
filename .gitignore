@@ -1,3 +1,12 @@
+.DS_Store
+
+.vs
+node_modules
+
+*.js
+*.d.ts
+!**/schema.d.ts
+
 # Logs
 logs
 *.log

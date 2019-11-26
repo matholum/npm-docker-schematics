@@ -1,0 +1,23 @@
+{
+    "$schema": "http://json-schema.org/schema",
+    "title": "Multi-Builder Target Options",
+    "description": "Multi-builder target options for Build Architect.",
+    "type": "object",
+    "properties": {
+      "vars": {
+        "type": "object",
+        "description": "Environment variables to pass to the docker container."
+      },
+      "ports": {
+        "type": "object",
+        "description": "Port mappings to the docker container."
+      },
+      "mounts": {
+        "type": "object",
+        "description": "Files or directories to mount into the docker container."
+      }
+    },
+    "additionalProperties": false,
+    "required": []
+  }
+  

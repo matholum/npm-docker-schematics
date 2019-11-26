@@ -1,0 +1,12 @@
+.DS_Store
+
+.git/
+
+makefile
+tsconfig.json
+tslint.json
+*.ts
+!*.d.ts
+
+npm-debug.log
+npm-error.log

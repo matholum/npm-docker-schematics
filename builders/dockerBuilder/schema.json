@@ -1,0 +1,26 @@
+{
+    "$schema": "http://json-schema.org/schema",
+    "title": "Multi-Builder Target Options",
+    "description": "Multi-builder target options for Build Architect.",
+    "type": "object",
+    "properties": {
+      "buildPath": {
+        "type": "string",
+        "description": "The path of the directory to be used as the working directory for docker."
+      },
+      "dockerfile": {
+        "type": "string",
+        "description": "The path to the dockerfile to be used."
+      },
+      "dockerignore": {
+        "type": "string",
+        "description": "The path to the dockerignore to be used."
+      }
+    },
+    "additionalProperties": false,
+    "required": [
+      "buildPath",
+      "dockerfile"
+    ]
+  }
+  

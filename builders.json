@@ -1,0 +1,20 @@
+{
+  "$schema": "./node_modules/@angular-devkit/architect/src/builders-schema.json",
+  "builders": {
+    "build-docker": {
+      "implementation": "./builders/dockerBuilder/dockerBuilder",
+      "schema": "./builders/dockerBuilder/schema.json",
+      "description": "Perform a docker build for a project."
+    },
+    "run-docker": {
+      "implementation": "./builders/dockerRunner/dockerRunner",
+      "schema": "./builders/dockerRunner/schema.json",
+      "description": "Run a docker container for a project."
+    },
+    "publish-docker": {
+      "implementation": "./builders/dockerPublisher/dockerPublisher",
+      "schema": "./builders/dockerPublisher/schema.json",
+      "description": "Publish (push) a project's docker container to a container repository."
+    }
+  }
+}
