@@ -395,10 +395,10 @@ commander@^3.0.2:
   resolved "https://registry.yarnpkg.com/commander/-/commander-3.0.2.tgz#6837c3fb677ad9933d1cfba42dd14d5117d6b39e"
   integrity sha512-Gar0ASD4BDyKC4hl4DwHqDrmvjoxWKZigVnAbn5H1owvm4CxCPdb0HQDehwNYMJpla5+M2tPmPARzhtYuwpHow==
 
-common-schematics@^0.0.4:
-  version "0.0.4"
-  resolved "https://registry.yarnpkg.com/common-schematics/-/common-schematics-0.0.4.tgz#4960361ab1fb1a094b0bef9bc7fb9fd34caf6433"
-  integrity sha512-jl3ocI8bGChPbTMevXrg/vgo9c4CN+6Qz2uWJWoLO2vpErBexdZKI1MWFW3ya+JEhVjLljLLBeRQdtiUxw2vZw==
+common-schematics@^0.0.6:
+  version "0.0.6"
+  resolved "https://registry.yarnpkg.com/common-schematics/-/common-schematics-0.0.6.tgz#cb9870a654d9f0c92c3058e12ee974855082773d"
+  integrity sha512-xyEv2M+mM8dEbBTMpyrUHbyKkigLTm9t+y3+ruCQfrLClFgf3tun79LMsv5n0km7FpNDNL801y3WGLV5TtAS1A==
   dependencies:
     commander "^3.0.2"
     fs-extra "^8.1.0"
@@ -1677,10 +1677,10 @@ typescript@^3.7.2:
   resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.7.2.tgz#27e489b95fa5909445e9fef5ee48d81697ad18fb"
   integrity sha512-ml7V7JfiN2Xwvcer+XAf2csGO1bPBdRbFCkYBczNZggrBZ9c7G3riSUeJmqEU5uOtXNPMhE3n+R4FA/3YOAWOQ==
 
-underscore@^1.9.1:
-  version "1.9.1"
-  resolved "https://registry.yarnpkg.com/underscore/-/underscore-1.9.1.tgz#06dce34a0e68a7babc29b365b8e74b8925203961"
-  integrity sha512-5/4etnCkd9c8gwgowi5/om/mYO5ajCaOgdzj/oW+0eQV9WxKBDZw5+ycmKmeaTXjInS/W0BzpGLo2xR2aBwZdg==
+underscore@^1.12.1, underscore@^1.9.1:
+  version "1.12.1"
+  resolved "https://registry.yarnpkg.com/underscore/-/underscore-1.12.1.tgz#7bb8cc9b3d397e201cf8553336d262544ead829e"
+  integrity sha512-hEQt0+ZLDVUMhebKxL4x1BTtDY7bavVofhZ9KZ4aI26X9SRaE+Y3m83XUL1UP2jn8ynjndwCCpEHdUG+9pP1Tw==
 
 universalify@^0.1.0:
   version "0.1.2"
