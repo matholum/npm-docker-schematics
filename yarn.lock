@@ -395,10 +395,10 @@ commander@^3.0.2:
   resolved "https://registry.yarnpkg.com/commander/-/commander-3.0.2.tgz#6837c3fb677ad9933d1cfba42dd14d5117d6b39e"
   integrity sha512-Gar0ASD4BDyKC4hl4DwHqDrmvjoxWKZigVnAbn5H1owvm4CxCPdb0HQDehwNYMJpla5+M2tPmPARzhtYuwpHow==
 
-common-schematics@^0.0.4:
-  version "0.0.4"
-  resolved "https://registry.yarnpkg.com/common-schematics/-/common-schematics-0.0.4.tgz#4960361ab1fb1a094b0bef9bc7fb9fd34caf6433"
-  integrity sha512-jl3ocI8bGChPbTMevXrg/vgo9c4CN+6Qz2uWJWoLO2vpErBexdZKI1MWFW3ya+JEhVjLljLLBeRQdtiUxw2vZw==
+common-schematics@^0.0.6:
+  version "0.0.6"
+  resolved "https://registry.yarnpkg.com/common-schematics/-/common-schematics-0.0.6.tgz#cb9870a654d9f0c92c3058e12ee974855082773d"
+  integrity sha512-xyEv2M+mM8dEbBTMpyrUHbyKkigLTm9t+y3+ruCQfrLClFgf3tun79LMsv5n0km7FpNDNL801y3WGLV5TtAS1A==
   dependencies:
     commander "^3.0.2"
     fs-extra "^8.1.0"
@@ -731,9 +731,9 @@ has@^1.0.1, has@^1.0.3:
     function-bind "^1.1.1"
 
 hosted-git-info@^2.1.4:
-  version "2.8.5"
-  resolved "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.8.5.tgz#759cfcf2c4d156ade59b0b2dfabddc42a6b9c70c"
-  integrity sha512-kssjab8CvdXfcXMXVcvsXum4Hwdq9XGtRD3TteMEvEbq0LXyiNQr6AprqKqfeaDXze7SxWvRxdpwE6ku7ikLkg==
+  version "2.8.9"
+  resolved "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.8.9.tgz#dffc0bf9a21c02209090f2aa69429e1414daf3f9"
+  integrity sha512-mxIDAb9Lsm6DoOJ7xH+5+X4y1LU/4Hi50L9C5sIswK3JzULS4bwk1FvjdBgvYR4bzT4tuUQiC15FE2f5HbLvYw==
 
 iconv-lite@^0.4.24:
   version "0.4.24"
