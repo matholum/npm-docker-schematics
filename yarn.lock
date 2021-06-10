@@ -395,10 +395,10 @@ commander@^3.0.2:
   resolved "https://registry.yarnpkg.com/commander/-/commander-3.0.2.tgz#6837c3fb677ad9933d1cfba42dd14d5117d6b39e"
   integrity sha512-Gar0ASD4BDyKC4hl4DwHqDrmvjoxWKZigVnAbn5H1owvm4CxCPdb0HQDehwNYMJpla5+M2tPmPARzhtYuwpHow==
 
-common-schematics@^0.0.4:
-  version "0.0.4"
-  resolved "https://registry.yarnpkg.com/common-schematics/-/common-schematics-0.0.4.tgz#4960361ab1fb1a094b0bef9bc7fb9fd34caf6433"
-  integrity sha512-jl3ocI8bGChPbTMevXrg/vgo9c4CN+6Qz2uWJWoLO2vpErBexdZKI1MWFW3ya+JEhVjLljLLBeRQdtiUxw2vZw==
+common-schematics@^0.0.6:
+  version "0.0.6"
+  resolved "https://registry.yarnpkg.com/common-schematics/-/common-schematics-0.0.6.tgz#cb9870a654d9f0c92c3058e12ee974855082773d"
+  integrity sha512-xyEv2M+mM8dEbBTMpyrUHbyKkigLTm9t+y3+ruCQfrLClFgf3tun79LMsv5n0km7FpNDNL801y3WGLV5TtAS1A==
   dependencies:
     commander "^3.0.2"
     fs-extra "^8.1.0"
@@ -676,9 +676,9 @@ get-stream@^4.0.0:
     pump "^3.0.0"
 
 glob-parent@^5.1.0:
-  version "5.1.0"
-  resolved "https://registry.yarnpkg.com/glob-parent/-/glob-parent-5.1.0.tgz#5f4c1d1e748d30cd73ad2944b3577a81b081e8c2"
-  integrity sha512-qjtRgnIVmOfnKUE3NJAQEdk+lKrxfw8t5ke7SXtfMTHcjsBfOfWXCQfdb30zfDoZQ2IRSIiidmjtbHZPZ++Ihw==
+  version "5.1.2"
+  resolved "https://registry.yarnpkg.com/glob-parent/-/glob-parent-5.1.2.tgz#869832c58034fe68a4093c17dc15e8340d8401c4"
+  integrity sha512-AOIgSQCepiJYwP3ARnGx+5VnTu2HBYdzbGP45eLw1vr3zB3vZLeyed1sC9hnbcOc9/SrMyM5RPQrkGz4aS9Zow==
   dependencies:
     is-glob "^4.0.1"
 
